@@ -39,6 +39,8 @@ Total data:450(Music-emotion)+1000(Turkish)=1450
 <img src=./demo/4.png width=60% />
 
 ### Result
+F-1 score: 0.52
+
 <img src=./demo/圖片5.png width=60% />
 <img src=./demo/圖片6.png width=30% />
 <img src=./demo/圖片7.png width=30% />
